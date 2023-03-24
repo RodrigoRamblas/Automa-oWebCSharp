@@ -27,6 +27,6 @@ git clone https://github.com/RodrigoRamblas/Automa-oWebCSharp.git
 ![image](https://user-images.githubusercontent.com/50155338/227553090-f5b92aa6-8740-4485-91ee-b583ffbb2793.png)
 #### A classe Dados contém as informações que serão usadas para identificar ações, como o xpath, id e a classe.
 ![image](https://user-images.githubusercontent.com/50155338/227553408-d648f5d9-f93c-4203-98d4-3ad446324c49.png)
-#### A classe UnitTest1 é onde estão localizados os métodos para funcionamento dos testes.
+#### A classe UnitTest1 contém os métodos que são usados para funcionamento dos testes.
 ![image](https://user-images.githubusercontent.com/50155338/227553650-9f2da7b2-0268-4cd2-961b-257b789105ee.png)
 
