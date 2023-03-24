@@ -20,6 +20,11 @@ git clone https://github.com/RodrigoRamblas/Automa-oWebCSharp.git
 ---------------------------------------------------------------------------------------------------------------------
 
 # Conhecendo a estrutura do projeto
+
+## Selenium
+#### O Selenium é uma ferramenta de automação de teste de software que permite simular ações do usuário em um navegador web, como clicar em botões, preencher formulários e navegar por diferentes páginas. Quando combinado com C#, o Selenium pode ser usado para criar testes automatizados mais robustos e eficientes.
+![image](https://user-images.githubusercontent.com/50155338/227555008-9d534180-bfc1-4b33-b1b3-134b0f1bec7e.png)
+
 ## Classes
 #### A classe Driver é responsável por inicializar o driver e ter os métodos comuns ao projeto.
 ![image](https://user-images.githubusercontent.com/50155338/227552430-6111ba61-23b8-4aa0-9655-636adc65c257.png)
