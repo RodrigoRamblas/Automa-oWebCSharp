@@ -1,4 +1,4 @@
-<h1 align="center">  AutomacaoWebSelenium </h1>
+<h1 align="center">  Automação Web Selenium </h1>
 Este projeto é uma automação do site https://ramblasassessoria.com/ com as melhores práticas de código limpo e automação Web.
 
 ![image](https://user-images.githubusercontent.com/50155338/227585783-3125a0c7-c2c1-4838-9618-f0cd6cc5a94a.png)
