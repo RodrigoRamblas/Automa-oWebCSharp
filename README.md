@@ -1,6 +1,8 @@
-# AutomacaoWebSelenium
+<h1 align="center">  AutomacaoWebSelenium </h1>
 Este projeto é uma automação do site https://ramblasassessoria.com/ com as melhores práticas de código limpo e automação Web.
-![image](https://user-images.githubusercontent.com/50155338/227548121-21fec312-3ee5-41bb-b9eb-eef409ddb8b1.png)
+
+![image](https://user-images.githubusercontent.com/50155338/227585783-3125a0c7-c2c1-4838-9618-f0cd6cc5a94a.png)
+
 
 ## IDE utilizada neste projeto
   * Visual Studio
