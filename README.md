@@ -16,6 +16,7 @@ https://git-scm.com/downloads
 ### Após a instalação do git você pode abrir o Git Bash e executar o comando 
 ```
 git clone https://github.com/RodrigoRamblas/Automa-oWebCSharp.git
+```
 ---------------------------------------------------------------------------------------------------------------------
 
 # Conhecendo a estrutura do projeto
