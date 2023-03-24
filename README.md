@@ -5,21 +5,28 @@
 
 #### Este projeto é uma automação do site https://ramblasassessoria.com/ com as melhores práticas de código limpo e automação Web.
 
-## IDE utilizada neste projeto
-  * Visual Studio
+## Pré-requisitos
+* Visual Studio
+* Selenium WebDriver
+* .Net Framework
+
 ## Versão do Google Chrome
   * 110.0.5481.104 (Official Build) (32-bit)
   
-  ---------------------------------------------------------------------------------------------------------------------
-## Como eu faço para baixar o projeto?
-### Para baixar o projeto você deve ter o git instalado na sua máquina, você pode baixar o git em 
+## Instalação
+#### 1. Para instalar o projeto você deve ter o git instalado na sua máquina, você pode baixar o git em 
 ```
 https://git-scm.com/downloads
 ```
-### Após a instalação do git você pode abrir o Git Bash e executar o comando 
+#### 2. Após a instalação do git você pode abrir o Git Bash e executar o comando
 ```
 git clone https://github.com/RodrigoRamblas/Automa-oWebCSharp.git
 ```
+#### 3. Abra o Visual Studio e abra o projeto clonado.
+#### 4. Restaure as dependências do projeto via NuGet Package Manager.
+#### 5. Configure as variáveis de ambiente do WebDriver.
+#### 6. Rode os testes.
+
 ---------------------------------------------------------------------------------------------------------------------
 
 # Conhecendo a estrutura do projeto
