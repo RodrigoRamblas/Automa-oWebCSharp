@@ -45,7 +45,11 @@ git clone https://github.com/RodrigoRamblas/Automa-oWebCSharp.git
 #### A classe UnitTest1 utiliza o framework de testes xUnit. A classe possui métodos de teste, que usam um objeto da classe "HelperC" para interagir com o navegador web usando o Selenium WebDriver.
 ![image](https://user-images.githubusercontent.com/50155338/227553650-9f2da7b2-0268-4cd2-961b-257b789105ee.png)
 
-## Como executar o projeto?
-#### O projeto deve ser executado pelo gerenciador de testes do Visual Studio
+## Como executar um teste no projeto?
+#### 1. Crie um novo teste de unidade clicando com o botão direito do mouse no nome da classe em que deseja criar o teste e selecionando a opção "Adicionar" > "Novo Item".
+#### 2. Na janela de adição de novo item, selecione "Teste de Unidade" na lista de modelos e defina um nome para o teste.
+#### 3. Para rodar o teste, você pode clicar no botão "Executar Testes" no menu superior da janela de Test Explorer, ou clicar com o botão direito do mouse no nome do teste e selecionar "Executar".
+#### 4. Se o teste falhar, o Visual Studio irá exibir uma mensagem de erro e destacar a linha de código que causou a falha.
+#### 5. Para depurar o teste, você pode colocar pontos de interrupção (breakpoints) em seu código e rodar o teste em modo de depuração, clicando no botão "Depurar Testes" no menu superior da janela de Test Explorer.
 ![image](https://user-images.githubusercontent.com/50155338/227557318-976d524d-c7db-4bb1-b872-9a38efffcda9.png)
 
