@@ -1,5 +1,5 @@
 # AutomacaoWebSelenium
-Neste projeto é uma automação do site https://ramblasassessoria.com/ com as melhores práticas de código limpo e automação Web.
+Este projeto é uma automação do site https://ramblasassessoria.com/ com as melhores práticas de código limpo e automação Web.
 ![image](https://user-images.githubusercontent.com/50155338/227548121-21fec312-3ee5-41bb-b9eb-eef409ddb8b1.png)
 
 ## IDE utilizada neste projeto
@@ -36,6 +36,6 @@ git clone https://github.com/RodrigoRamblas/Automa-oWebCSharp.git
 ![image](https://user-images.githubusercontent.com/50155338/227553650-9f2da7b2-0268-4cd2-961b-257b789105ee.png)
 
 ## Como executar o projeto?
-#### O projeto deve ser executado pelo gerenciador de testes do visual studio
+#### O projeto deve ser executado pelo gerenciador de testes do Visual Studio
 ![image](https://user-images.githubusercontent.com/50155338/227557318-976d524d-c7db-4bb1-b872-9a38efffcda9.png)
 
